@@ -20,7 +20,11 @@ Creating a 25+5 Clock for a freeCodeCamp Project. The purpose of the project is 
 
 ### What was the aim?
 * The clock should work
+* You should be able to edit the length of the breaks
+* YOu should be able to edit the length of the sessions
+* There should be a "play or pause" button
+* There should be a "reset" button
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
-[*25+5 Clock* by Kutz](https://codepen.io/kutzz/pen/VwgYOJx)
+[*25+5 Clock* by Kutz](https://codepen.io/kutzz/pen/PoVNQMK)
