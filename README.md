@@ -4,7 +4,7 @@
 Creating a 25+5 Clock for a freeCodeCamp Project. The purpose of the project is to create a functional clock that records "Work time" and "Break time" using the React.js framework.
 
 ### The calculator should look similar to this:
-
+![image](https://shots.codepen.io/username/pen/XpKrrW-1280.jpg?version=1661962590)
 
 ### I used these languages to create this project
 ```html
