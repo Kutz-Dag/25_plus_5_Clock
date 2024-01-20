@@ -24,6 +24,7 @@ Creating a 25+5 Clock for a freeCodeCamp Project. The purpose of the project is 
 * YOu should be able to edit the length of the sessions
 * There should be a "play or pause" button
 * There should be a "reset" button
+* It must be built with React.js
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
