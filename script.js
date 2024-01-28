@@ -1,5 +1,5 @@
-// import React from "https://esm.sh/react";
-// import ReactDOM from "https://esm.sh/react-dom";
+import React from "https://esm.sh/react";
+import ReactDOM from "https://esm.sh/react-dom";
 
 const App = () => {
   const [breakLength, setBreakLength] = React.useState(5);
@@ -139,4 +139,4 @@ const App = () => {
   )
 }
 
-// ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
